@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "ae256d60-fbbe-4d0f-9fc4-b822aab4be53",
+    "name": "Ebony Hammes I",
+    "phone": "1-786-767-5891",
+    "email": "Imogene.Toy@hotmail.com",
+    "job": "Customer Directives Officer"
+  },
+  {
+    "id": "462eb913-8bbd-4b3f-abf6-a5f9bb268142",
+    "name": "Arthur Hoeger",
+    "phone": "765-592-7144",
+    "email": "Noemie.Bergstrom@hotmail.com",
+    "job": "Human Data Assistant"
+  },
+  {
+    "id": "3e4e390e-0452-453e-88f3-6430bf205b67",
+    "name": "Krystal Connelly",
+    "phone": "304-307-3902",
+    "email": "Willy.Bins@hotmail.com",
+    "job": "Corporate Metrics Agent"
+  },
+  {
+    "id": "532a1643-c377-4f54-ae4e-9dc754b931c6",
+    "name": "Maurice O'Keefe IV",
+    "phone": "(808) 867-8518",
+    "email": "Rashawn53@yahoo.com",
+    "job": "Future Response Liaison"
+  },
+  {
+    "id": "1d8ee3a9-600a-43e6-b563-b7629aa6af5c",
+    "name": "Darryl Russel",
+    "phone": "1-330-449-1451 x9799",
+    "email": "Wilson.Breitenberg@hotmail.com",
+    "job": "Investor Quality Designer"
+  }
+]
